@@ -27,6 +27,7 @@ Soal: Setelah membagi alamat IP menggunakan VLSM, gambarkan pohon subnet yang me
 #### Pembagian IP VLSM:
 ![image](https://github.com/user-attachments/assets/12815af8-16b6-4451-9093-001c37755275)
 #### Tree VLSM:
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/75221b09-7e7c-4534-9be9-a4e170cf8950)
 
 Untuk topologi jaringan pada GNS3 dengan lingkaran pembagian IP VLSM adalah sebagai berikut.
 ![PembagianIPIT10](https://github.com/user-attachments/assets/ff1b5eee-7bf9-4e60-8ef7-9dbe63a6f4df)
